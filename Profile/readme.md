@@ -87,5 +87,6 @@ Check out our repositories, fork something interesting, or just star a project t
 
 [![Made with ❤️ and ☕](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-red)]()
 [![Powered by Curiosity](https://img.shields.io/badge/Powered%20by-Curiosity-blue)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/enrico-schmidt/)
 
 </div>
