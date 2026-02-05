@@ -1,3 +1,9 @@
+<div align="center">
+
+![sweady labs banner](banner.svg)
+
+</div>
+
 # sweady labs
 
 > *Where curiosity meets code, and experiments become innovations*
